@@ -2,15 +2,6 @@
 
 https://nostrss.github.io/
 
-## Site
-
-### Story Scroll(~ing)
-
-- https://nostrss.github.io/story_scroll/home
-- CRUD Project
-- mobile frendly
-- Ionic, React, Typescript
-
 ## Skills
 
 <p>
