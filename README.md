@@ -17,9 +17,10 @@ https://nostrss.github.io/
 
 <div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=nostrss&show_icons=true&theme=chartreuse-dark" width=49.2%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostrss&layout=compact&theme=chartreuse-dark" width=41.11%/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostrss&layout=compact&theme=chartreuse-dark" width=41.11%/> 
+  ![](./profile-3d-contrib/profile-night-green.svg)-->
 
-  ![](./profile-3d-contrib/profile-night-green.svg)
+  ![](./profile-3d-contrib/profile-season.svg)
 </div>
 
 
