@@ -1,5 +1,5 @@
 ## Blog
-
+https://www.nostrss.me/
 https://nostrss.github.io/
 
 ## Skills
