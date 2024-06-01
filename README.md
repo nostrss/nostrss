@@ -14,14 +14,5 @@ https://nostrss.github.io/
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 </p>
 
-## Statistics
-
-<div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=nostrss&show_icons=true&theme=chartreuse-dark" width=49.2%/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostrss&layout=compact&theme=chartreuse-dark" width=41.11%/> 
-  ![](./profile-3d-contrib/profile-night-green.svg)-->
-
-  ![](./profile-3d-contrib/profile-season.svg)
-</div>
 
 
