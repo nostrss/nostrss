@@ -1,10 +1,7 @@
 ## Blog
-https://www.nostrss.me/
-
-https://nostrss.github.io/
+https://blog.nostrss.me/
 
 ## Skills
-
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
